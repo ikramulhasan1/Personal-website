@@ -100,15 +100,20 @@ h1{font-size: 40px;
 
 /*-------------------section 5 ---------------------------*/
 .section5{
-    width: 35%;
-    
+    width: 35%;  
+    margin-left: 30%;
+    margin-bottom: 50px; 
 }
 
 .section5-div2{
-    border: 0px solid ;
-    background-color: rgb(253, 224, 214);
-
+    border: 2px solid red;
+    background-color: rgb(255, 242, 238);
+    margin-left: 14px;
+    padding: 20px;
 }
+
+#section5-h1{color: darkorange;
+font-weight: 900;}
 
 
 /*-------------------Footer---------------------------*/
